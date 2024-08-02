@@ -1,0 +1,21 @@
+{
+  "name": "biz-time",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
+}
